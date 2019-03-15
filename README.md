@@ -1,4 +1,4 @@
-# ![alt text](https://github.com/enigmatic7earth/startup_namer/blob/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-72.png "enigmatic's WhatsApp sticker Bag") Startpu
+# ![alt text](https://github.com/enigmatic7earth/startup_namer/blob/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-72.png "enigmatic's Startup namer") Startup namer
 
 A new Flutter project.
 
