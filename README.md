@@ -1,6 +1,6 @@
 # ![alt text](https://github.com/enigmatic7earth/startup_namer/blob/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-72.png "enigmatic's Startup namer") startup_namer
 
-A new Flutter project.
+Simple Flutter project following [Google's codelab](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
 
 ## Getting Started
 
